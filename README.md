@@ -9,5 +9,5 @@ Execute binaries:
 ---
 
 ```bash
-$ ./tfm_<COP> <instance>.<COP> <seed>
+$ ./tfm_<COP> <instance>.<COP> <evaluations> <seed>
 ```
